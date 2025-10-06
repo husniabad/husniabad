@@ -19,16 +19,16 @@
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,postgresql,prisma,firebase" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,java,python&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,django,mongodb,postgresql,prisma,figma" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=javascript,typescript,java,python&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>DevOps&Cloud</strong></td>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,vercel&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,githubactions&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=github,docker,kubernetes,vercel,gcp&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=vscode,linux,git&theme=dark"></td>
 </tr>
 </table>
 
