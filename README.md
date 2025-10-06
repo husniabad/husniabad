@@ -33,6 +33,4 @@
 </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=husniabad&show_icons=true&locale=en&layout=compact" alt="husniabad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husniabad&" alt="husniabad" /></p>
