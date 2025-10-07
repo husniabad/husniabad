@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Husni%20Abad&reversal=false&textBg=false&descAlign=60&animation=twinkling" alt="Waving Banner" width="100%"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Husni" alt="Typing SVG" /></a>
 
-<h3 align="center">A results-driven Fullstack Architect building modern, scalable web applications with Next.js/TypeScript and Python/Django. I focus on performance, clean architecture, and great user experiences for startups and e-commerce.</h3>
+<h3 >A results-driven Fullstack Architect building modern, scalable web applications with Next.js/TypeScript and Python/Django. I focus on performance, clean architecture, and great user experiences for startups and e-commerce.</h3>
 
 [![My Resume](https://img.shields.io/badge/My_Resume-View-0077B5?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1pg-ifJ38ONKCvP8_v0TFfdYAu3BXHB79/view?usp=sharing)
 
